@@ -5,5 +5,7 @@ Here we have three modules
 1. Thyroid Algorithm
 2. Doctor
 3. Patient
+
+
 Here the doctor is the admin and he has the authority to add diseases and their synonyms, generate reports, and provide prescription. And the role of the patient is to just tell his/her symptoms to the doctor provide necessary basic information to them.
 It makes convenient for the doctors to know the symptoms from remote place even if he is not in person seeing his patient. And here the doctor himself is given authority for prescription.
